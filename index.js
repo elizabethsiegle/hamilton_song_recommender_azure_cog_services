@@ -12,18 +12,18 @@ exports.handler = async function(context, event, callback) {
     
     const songs = {
         "non-stop": {desc: "Do not assume you are the smartest in the room. Time to do some work.", link: "youtube.com/watch?v=_YHVPNOHySk"},
-        "wait for it": {desc:"Good things take time. If you're doubting yourself, just keep going. You are inimitable, an original.", link: "youtube.com/watch?v=ulsLI029rH0"},
+        "wait for it": {desc:"Good things take time. If you are doubting yourself, just keep going. You are inimitable, an original.", link: "youtube.com/watch?v=ulsLI029rH0"},
         "schuyler sisters": {desc:"Girl power! You are empowered and thus empower others. Keep your siblings close. You may be looking for a mind at work.",link:"youtube.com/watch?v=UeqKF_NF1Qs"},
         "dear theodosia": {desc:"you're getting all emotional and teary over your kid or your pet. They're cute and have their whole lives ahead of them, which you will make better.", link:"youtube.com/watch?v=TKpJjdKcjeo"},
         "story of tonight": {desc:"You're feeling emotional over what you, your friends, and your family will do in the future.", link:"youtube.com/watch?v=3vqwrepaMR0"},
         "my shot": {desc:"life is tough but you are tougher. All you need is one chance, one shot per se, and here's the motivation you need to accomplish anything.",link: "youtube.com/watch?v=Ic7NqP_YGlg"},
-        "alexander hamilton": {desc:"You don't get the hype over Hamilton. This song will sum it up succinctly for you and you'll learn some history too.", link:"youtube.com/watch?v=VhinPd5RRJw"},
+        "alexander hamilton": {desc:"What is the hype over Hamilton? This song will sum it up succinctly for you and you'll learn some history too.", link:"youtube.com/watch?v=VhinPd5RRJw"},
         "the reynolds pamphlet": {desc:"have you read this? your archnemesis lost or is down. Someone you don't like was knocked out of the race. They are down but not out.", link: "youtube.com/watch?v=uYQPP49MSEk"},
-        "what'd i miss?": {desc:"Where have you been? For a meeting, you show up late with coffee. You may have missed the first half, but, like Thomas Jefferson, you have style.", link:"youtube.com/watch?v=vrnovNWC1f4"},
-        "your obedient servant": {desc:"it's okay to be petty and passive-aggressive sometimes. I mean, who doesn’t have an itemized list of thirty years of disagreements.", link: "youtube.com/watch?v=Yr-mO1o1uHk"},
+        "what'd i miss?": {desc:"Where have you been? For a meeting, you show up late, waltzing in with coffee. You may have missed the first half, but, like Thomas Jefferson, you have style.", link:"youtube.com/watch?v=vrnovNWC1f4"},
+        "your obedient servant": {desc:"it's okay to be petty and passive-aggressive in writing, sometimes people deserve it. Your rival definitely deserves it. I mean, who doesn’t have an itemized list of thirty years of disagreements.", link: "youtube.com/watch?v=Yr-mO1o1uHk"},
         "helpless" : {desc:"Did you just swipe right and match with your love of the day, making your heart go boom? Don't be down for the count and helpless because nothing is for sure.", link:"youtube.com/watch?v=PwNt3A-jScQ"},
         "burn": {desc:"Sometimes you need to curse someone who has wronged you (and you are in the right). Why do good people do dumb things? I hope they burn.", link: "youtube.com/watch?v=a0k0FJrY4a8"},
-        "cabinet battles": {desc:"Why do people not compromise? Can we all just be friends? Figure it out, that is an order from your commander. But also, rap battles are very fun.", link: "youtube.com/watch?v=dSYW61XQZeo"},
+        "cabinet battles": {desc:"Why do people not compromise? Can we all just get along? Figure it out, that is an order from your commander. But also, rap battles are very fun.", link: "youtube.com/watch?v=dSYW61XQZeo"},
         "take a break": {desc:"You are obsessed with punctuation and thus by extension grammar and Oxford commas. We stan an intellectual but it is time to relax, take a break.", link: "youtube.com/watch?v=D2UWNF8pKwk"},
         "the room where it happens": {desc:"Are your best friends keeping something from you? Is your work team walking on egg shells around you? Maybe you are missing out on something.", link:"youtube.com/watch?v=WySzEXKUSZw"},
     };
