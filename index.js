@@ -48,7 +48,7 @@ exports.handler = async function(context, event, callback) {
             link: "youtube.com/watch?v=vrnovNWC1f4"
         },
         "your obedient servant": {
-            esc: "it's okay to be petty and passive-aggressive sometimes. I mean, who doesn’t have an itemized list of thirty years of disagreements.",
+            desc: "it's okay to be petty and passive-aggressive sometimes. I mean, who doesn’t have an itemized list of thirty years of disagreements.",
             link: "youtube.com/watch?v=Yr-mO1o1uHk"
         },
         "helpless": {
